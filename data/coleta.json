@@ -1,0 +1,19 @@
+{
+  "coletado_em": "2026-11-10T15:58+00:00",
+  "api": "https://api.obis.org/v3",
+  "area_obis": {
+    "id": 26,
+    "nome": "Brazil: all"
+  },
+  "faixas": {
+    "lat_sul": -36,
+    "lat_norte": 6,
+    "passo_graus": 2
+  },
+  "linhas": {
+    "faixas": 21,
+    "especies_por_faixa": 31707,
+    "conjuntos_por_faixa": 1719,
+    "tartarugas_por_conjunto": 170
+  }
+}

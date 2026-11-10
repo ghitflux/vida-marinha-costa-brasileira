@@ -1,0 +1,1452 @@
+{
+  "coletado_em": "2026-11-10",
+  "fonte": "OBIS (https://obis.org), área 'Brazil: all', faixas de 2 graus de latitude",
+  "resumo": {
+    "faixas": 21,
+    "registros": 801423,
+    "registros_com_especie": 600978,
+    "especies_distintas": 10349,
+    "registros_faixa_mais_amostrada": 198492,
+    "registros_faixa_menos_amostrada": 2332,
+    "razao_de_esforco": 85.11663807890223,
+    "n_ref": 1500
+  },
+  "por_faixa": [
+    {
+      "faixa": "4°N a 6°N",
+      "lat_sul": 4,
+      "registros": 4209,
+      "registros com espécie": 1548,
+      "conjuntos de dados": 40,
+      "riqueza bruta": 378,
+      "riqueza rarefeita": 371.5016836461,
+      "rarefeita (2,5%)": 366.0,
+      "rarefeita (97,5%)": 376.0,
+      "rarefeita em 3000": null,
+      "Chao1": 792.0,
+      "completude": 0.4772727273,
+      "espécies novas a cada 100 registros": 13.4366925065,
+      "fração do maior conjunto": 0.2036113091,
+      "maior conjunto": "TotalEnergies EP Brasil | Projeto de Caracterização Ambiental (PCA)/ Environmental Baseline Study (EBS) da Margem Equatorial Brasileira, considerando os blocos ",
+      "posto pela riqueza bruta": 21,
+      "posto pela riqueza rarefeita": 15,
+      "mudança de posto": 6
+    },
+    {
+      "faixa": "2°N a 4°N",
+      "lat_sul": 2,
+      "registros": 4691,
+      "registros com espécie": 3947,
+      "conjuntos de dados": 56,
+      "riqueza bruta": 601,
+      "riqueza rarefeita": 377.2167617734,
+      "rarefeita (2,5%)": 361.0,
+      "rarefeita (97,5%)": 396.0,
+      "rarefeita em 3000": 531.5157621037,
+      "Chao1": 901.625,
+      "completude": 0.666574241,
+      "espécies novas a cada 100 registros": 6.5872814796,
+      "fração do maior conjunto": 0.3690044767,
+      "maior conjunto": "Previous Fisheries REVIZEE Program",
+      "posto pela riqueza bruta": 19,
+      "posto pela riqueza rarefeita": 14,
+      "mudança de posto": 5
+    },
+    {
+      "faixa": "0° a 2°N",
+      "lat_sul": 0,
+      "registros": 21978,
+      "registros com espécie": 18682,
+      "conjuntos de dados": 79,
+      "riqueza bruta": 1021,
+      "riqueza rarefeita": 262.4914145384,
+      "rarefeita (2,5%)": 241.475,
+      "rarefeita (97,5%)": 281.525,
+      "rarefeita em 3000": 399.7926104005,
+      "Chao1": 1492.484375,
+      "completude": 0.684094264,
+      "espécies novas a cada 100 registros": 2.2802697784,
+      "fração do maior conjunto": 0.3468468468,
+      "maior conjunto": "Long-term Ecological Monitoring Research Brazilian Oceanic Islands (reef fish)",
+      "posto pela riqueza bruta": 15,
+      "posto pela riqueza rarefeita": 19,
+      "mudança de posto": -4
+    },
+    {
+      "faixa": "2°S a 0°",
+      "lat_sul": -2,
+      "registros": 12242,
+      "registros com espécie": 9951,
+      "conjuntos de dados": 87,
+      "riqueza bruta": 1126,
+      "riqueza rarefeita": 481.1183632702,
+      "rarefeita (2,5%)": 458.475,
+      "rarefeita (97,5%)": 503.525,
+      "rarefeita em 3000": 687.8012089044,
+      "Chao1": 1433.221719457,
+      "completude": 0.7856425735,
+      "espécies novas a cada 100 registros": 3.7081700332,
+      "fração do maior conjunto": 0.2120568535,
+      "maior conjunto": "Abundance data of planktonic cnidarians collected during the Camadas Finas III survey performed along the North Brazilian continental shelf and open ocean",
+      "posto pela riqueza bruta": 13,
+      "posto pela riqueza rarefeita": 8,
+      "mudança de posto": 5
+    },
+    {
+      "faixa": "4°S a 2°S",
+      "lat_sul": -4,
+      "registros": 114064,
+      "registros com espécie": 55502,
+      "conjuntos de dados": 105,
+      "riqueza bruta": 2197,
+      "riqueza rarefeita": 382.4679837692,
+      "rarefeita (2,5%)": 357.0,
+      "rarefeita (97,5%)": 406.525,
+      "rarefeita em 3000": 588.0243487262,
+      "Chao1": 3143.4615384615,
+      "completude": 0.6989110486,
+      "espécies novas a cada 100 registros": 1.3855356564,
+      "fração do maior conjunto": 0.437464932,
+      "maior conjunto": "UNESCO eDNA expedition in Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves (Brazil): November 2022",
+      "posto pela riqueza bruta": 4,
+      "posto pela riqueza rarefeita": 12,
+      "mudança de posto": -8
+    },
+    {
+      "faixa": "6°S a 4°S",
+      "lat_sul": -6,
+      "registros": 40247,
+      "registros com espécie": 24554,
+      "conjuntos de dados": 75,
+      "riqueza bruta": 1517,
+      "riqueza rarefeita": 313.8235364187,
+      "rarefeita (2,5%)": 292.0,
+      "rarefeita (97,5%)": 334.0,
+      "rarefeita em 3000": 484.3765504704,
+      "Chao1": 2739.9911504425,
+      "completude": 0.5536514232,
+      "espécies novas a cada 100 registros": 3.0300562027,
+      "fração do maior conjunto": 0.3107809278,
+      "maior conjunto": "ReefSYN | Standardized datasets of Brazilian reef diversity in space and time - Dataset XI: Rio Grande do Norte monitoring",
+      "posto pela riqueza bruta": 9,
+      "posto pela riqueza rarefeita": 17,
+      "mudança de posto": -8
+    },
+    {
+      "faixa": "8°S a 6°S",
+      "lat_sul": -8,
+      "registros": 7852,
+      "registros com espécie": 6193,
+      "conjuntos de dados": 70,
+      "riqueza bruta": 1244,
+      "riqueza rarefeita": 604.2027101964,
+      "rarefeita (2,5%)": 580.475,
+      "rarefeita (97,5%)": 627.05,
+      "rarefeita em 3000": 879.0764759231,
+      "Chao1": 1897.125,
+      "completude": 0.6557290637,
+      "espécies novas a cada 100 registros": 8.8971419344,
+      "fração do maior conjunto": 0.2142129394,
+      "maior conjunto": "iNaturalist Research-grade Observations Marine Subset",
+      "posto pela riqueza bruta": 11,
+      "posto pela riqueza rarefeita": 4,
+      "mudança de posto": 7
+    },
+    {
+      "faixa": "10°S a 8°S",
+      "lat_sul": -10,
+      "registros": 22637,
+      "registros com espécie": 17292,
+      "conjuntos de dados": 83,
+      "riqueza bruta": 1808,
+      "riqueza rarefeita": 600.6469842435,
+      "rarefeita (2,5%)": 574.0,
+      "rarefeita (97,5%)": 630.525,
+      "rarefeita em 3000": 869.0740168447,
+      "Chao1": 2668.0125,
+      "completude": 0.6776579945,
+      "espécies novas a cada 100 registros": 3.7184825353,
+      "fração do maior conjunto": 0.3033970933,
+      "maior conjunto": "UFPE Oceanography Zooplankton Research",
+      "posto pela riqueza bruta": 7,
+      "posto pela riqueza rarefeita": 5,
+      "mudança de posto": 2
+    },
+    {
+      "faixa": "12°S a 10°S",
+      "lat_sul": -12,
+      "registros": 4736,
+      "registros com espécie": 3978,
+      "conjuntos de dados": 58,
+      "riqueza bruta": 609,
+      "riqueza rarefeita": 378.4767902333,
+      "rarefeita (2,5%)": 360.0,
+      "rarefeita (97,5%)": 398.0,
+      "rarefeita em 3000": 534.7326785773,
+      "Chao1": 952.7777777778,
+      "completude": 0.6391836735,
+      "espécies novas a cada 100 registros": 6.862745098,
+      "fração do maior conjunto": 0.448902027,
+      "maior conjunto": "Northeast BR Mangrove",
+      "posto pela riqueza bruta": 18,
+      "posto pela riqueza rarefeita": 13,
+      "mudança de posto": 5
+    },
+    {
+      "faixa": "14°S a 12°S",
+      "lat_sul": -14,
+      "registros": 12811,
+      "registros com espécie": 11604,
+      "conjuntos de dados": 79,
+      "riqueza bruta": 1756,
+      "riqueza rarefeita": 631.2057741729,
+      "rarefeita (2,5%)": 605.0,
+      "rarefeita (97,5%)": 657.525,
+      "rarefeita em 3000": 944.0495309359,
+      "Chao1": 2459.0,
+      "completude": 0.7141114274,
+      "espécies novas a cada 100 registros": 5.7394002068,
+      "fração do maior conjunto": 0.1959253766,
+      "maior conjunto": "ReefSYN | Standardized datasets of Brazilian reef diversity in space and time - Dataset I: Fish communities from the Brazilian province",
+      "posto pela riqueza bruta": 8,
+      "posto pela riqueza rarefeita": 3,
+      "mudança de posto": 5
+    },
+    {
+      "faixa": "16°S a 14°S",
+      "lat_sul": -16,
+      "registros": 4613,
+      "registros com espécie": 3996,
+      "conjuntos de dados": 58,
+      "riqueza bruta": 1240,
+      "riqueza rarefeita": 713.39090724,
+      "rarefeita (2,5%)": 687.9,
+      "rarefeita (97,5%)": 736.525,
+      "rarefeita em 3000": 1069.6514071487,
+      "Chao1": 1990.312,
+      "completude": 0.6230178987,
+      "espécies novas a cada 100 registros": 15.3403403403,
+      "fração do maior conjunto": 0.1632343377,
+      "maior conjunto": "Benthic biodiversity along the central coast in the Brazilian EEZ (OBIS South America, BRAZIL)",
+      "posto pela riqueza bruta": 12,
+      "posto pela riqueza rarefeita": 2,
+      "mudança de posto": 10
+    },
+    {
+      "faixa": "18°S a 16°S",
+      "lat_sul": -18,
+      "registros": 99430,
+      "registros com espécie": 80217,
+      "conjuntos de dados": 76,
+      "riqueza bruta": 1859,
+      "riqueza rarefeita": 187.7201485782,
+      "rarefeita (2,5%)": 168.0,
+      "rarefeita (97,5%)": 205.525,
+      "rarefeita em 3000": 290.0123723527,
+      "Chao1": 2652.8064516129,
+      "completude": 0.7007672945,
+      "espécies novas a cada 100 registros": 0.9586496628,
+      "fração do maior conjunto": 0.6004324651,
+      "maior conjunto": "ReefSYN | Standardized datasets of Brazilian reef diversity in space and time - Dataset II: Abrolhos Bank monitoring",
+      "posto pela riqueza bruta": 6,
+      "posto pela riqueza rarefeita": 21,
+      "mudança de posto": -15
+    },
+    {
+      "faixa": "20°S a 18°S",
+      "lat_sul": -20,
+      "registros": 14282,
+      "registros com espécie": 10320,
+      "conjuntos de dados": 89,
+      "riqueza bruta": 2089,
+      "riqueza rarefeita": 764.5216967633,
+      "rarefeita (2,5%)": 737.0,
+      "rarefeita (97,5%)": 791.575,
+      "rarefeita em 3000": 1160.0083859513,
+      "Chao1": 3023.593495935,
+      "completude": 0.6908997532,
+      "espécies novas a cada 100 registros": 8.0523255814,
+      "fração do maior conjunto": 0.1252625683,
+      "maior conjunto": "Benthic biodiversity along the central coast in the Brazilian EEZ (OBIS South America, BRAZIL)",
+      "posto pela riqueza bruta": 5,
+      "posto pela riqueza rarefeita": 1,
+      "mudança de posto": 4
+    },
+    {
+      "faixa": "22°S a 20°S",
+      "lat_sul": -22,
+      "registros": 84426,
+      "registros com espécie": 72749,
+      "conjuntos de dados": 116,
+      "riqueza bruta": 3038,
+      "riqueza rarefeita": 407.5421834987,
+      "rarefeita (2,5%)": 382.0,
+      "rarefeita (97,5%)": 433.525,
+      "rarefeita em 3000": 644.1723780064,
+      "Chao1": 3992.9001919386,
+      "completude": 0.7608504731,
+      "espécies novas a cada 100 registros": 1.3718401628,
+      "fração do maior conjunto": 0.280861346,
+      "maior conjunto": "Long-term Ecological Monitoring Research Brazilian Oceanic Islands (reef fish)",
+      "posto pela riqueza bruta": 2,
+      "posto pela riqueza rarefeita": 10,
+      "mudança de posto": -8
+    },
+    {
+      "faixa": "24°S a 22°S",
+      "lat_sul": -24,
+      "registros": 198492,
+      "registros com espécie": 154054,
+      "conjuntos de dados": 154,
+      "riqueza bruta": 4444,
+      "riqueza rarefeita": 554.6012691743,
+      "rarefeita (2,5%)": 528.475,
+      "rarefeita (97,5%)": 579.0,
+      "rarefeita em 3000": 857.4238071229,
+      "Chao1": 5636.8260869565,
+      "completude": 0.7883869276,
+      "espécies novas a cada 100 registros": 0.8049125631,
+      "fração do maior conjunto": 0.1954234931,
+      "maior conjunto": "SE_BrazilRockyShores",
+      "posto pela riqueza bruta": 1,
+      "posto pela riqueza rarefeita": 6,
+      "mudança de posto": -5
+    },
+    {
+      "faixa": "26°S a 24°S",
+      "lat_sul": -26,
+      "registros": 49188,
+      "registros com espécie": 41716,
+      "conjuntos de dados": 112,
+      "riqueza bruta": 2367,
+      "riqueza rarefeita": 538.4837278508,
+      "rarefeita (2,5%)": 511.0,
+      "rarefeita (97,5%)": 563.525,
+      "rarefeita em 3000": 792.4193143915,
+      "Chao1": 3034.1983914209,
+      "completude": 0.7801071963,
+      "espécies novas a cada 100 registros": 1.6923962029,
+      "fração do maior conjunto": 0.1468447589,
+      "maior conjunto": "ReefSYN | Standardized datasets of Brazilian reef diversity in space and time - Dataset X: Alcatrazes monitoring",
+      "posto pela riqueza bruta": 3,
+      "posto pela riqueza rarefeita": 7,
+      "mudança de posto": -4
+    },
+    {
+      "faixa": "28°S a 26°S",
+      "lat_sul": -28,
+      "registros": 59403,
+      "registros com espécie": 49002,
+      "conjuntos de dados": 89,
+      "riqueza bruta": 1435,
+      "riqueza rarefeita": 275.3746789576,
+      "rarefeita (2,5%)": 258.475,
+      "rarefeita (97,5%)": 295.0,
+      "rarefeita em 3000": 406.0731885457,
+      "Chao1": 1904.9844357977,
+      "completude": 0.7532869944,
+      "espécies novas a cada 100 registros": 1.0040406514,
+      "fração do maior conjunto": 0.4461390839,
+      "maior conjunto": "ReefSYN | Standardized datasets of Brazilian reef diversity in space and time - Dataset VI: Santa Catarina reef fish monitoring",
+      "posto pela riqueza bruta": 10,
+      "posto pela riqueza rarefeita": 18,
+      "mudança de posto": -8
+    },
+    {
+      "faixa": "30°S a 28°S",
+      "lat_sul": -30,
+      "registros": 10889,
+      "registros com espécie": 6753,
+      "conjuntos de dados": 77,
+      "riqueza bruta": 760,
+      "riqueza rarefeita": 391.6325435356,
+      "rarefeita (2,5%)": 372.0,
+      "rarefeita (97,5%)": 411.05,
+      "rarefeita em 3000": 542.3266911554,
+      "Chao1": 1066.0,
+      "completude": 0.712945591,
+      "espécies novas a cada 100 registros": 4.2795794462,
+      "fração do maior conjunto": 0.2786298099,
+      "maior conjunto": "CARBOM cruise 2013 flow cytometry sorted phytoplankton",
+      "posto pela riqueza bruta": 16,
+      "posto pela riqueza rarefeita": 11,
+      "mudança de posto": 5
+    },
+    {
+      "faixa": "32°S a 30°S",
+      "lat_sul": -32,
+      "registros": 12019,
+      "registros com espécie": 11434,
+      "conjuntos de dados": 77,
+      "riqueza bruta": 706,
+      "riqueza rarefeita": 262.4494552244,
+      "rarefeita (2,5%)": 246.0,
+      "rarefeita (97,5%)": 280.525,
+      "rarefeita em 3000": 377.7143713517,
+      "Chao1": 1092.6379310345,
+      "completude": 0.6461426791,
+      "espécies novas a cada 100 registros": 2.623753717,
+      "fração do maior conjunto": 0.4826524669,
+      "maior conjunto": "Biological dataset for Pagrus pagrus fished along Southern Brazil",
+      "posto pela riqueza bruta": 17,
+      "posto pela riqueza rarefeita": 20,
+      "mudança de posto": -3
+    },
+    {
+      "faixa": "34°S a 32°S",
+      "lat_sul": -34,
+      "registros": 20882,
+      "registros com espécie": 15534,
+      "conjuntos de dados": 89,
+      "riqueza bruta": 1023,
+      "riqueza rarefeita": 353.0746588747,
+      "rarefeita (2,5%)": 332.0,
+      "rarefeita (97,5%)": 376.525,
+      "rarefeita em 3000": 505.3944694295,
+      "Chao1": 1456.2360248447,
+      "completude": 0.702496012,
+      "espécies novas a cada 100 registros": 2.4076219905,
+      "fração do maior conjunto": 0.2838808543,
+      "maior conjunto": "Previous Fisheries REVIZEE Program",
+      "posto pela riqueza bruta": 14,
+      "posto pela riqueza rarefeita": 16,
+      "mudança de posto": -2
+    },
+    {
+      "faixa": "36°S a 34°S",
+      "lat_sul": -36,
+      "registros": 2332,
+      "registros com espécie": 1952,
+      "conjuntos de dados": 50,
+      "riqueza bruta": 489,
+      "riqueza rarefeita": 420.3890018926,
+      "rarefeita (2,5%)": 407.0,
+      "rarefeita (97,5%)": 432.525,
+      "rarefeita em 3000": null,
+      "Chao1": 892.5652173913,
+      "completude": 0.5478591261,
+      "espécies novas a cada 100 registros": 13.9856557377,
+      "fração do maior conjunto": 0.3001715266,
+      "maior conjunto": "Previous Fisheries REVIZEE Program",
+      "posto pela riqueza bruta": 20,
+      "posto pela riqueza rarefeita": 9,
+      "mudança de posto": 11
+    }
+  ],
+  "relacoes": {
+    "riqueza bruta x registros": {
+      "rho": 0.8220779221,
+      "p": 4.8423e-06,
+      "faixas": 21.0
+    },
+    "riqueza rarefeita x registros": {
+      "rho": -0.1961038961,
+      "p": 0.3942416622,
+      "faixas": 21.0
+    },
+    "riqueza bruta x riqueza rarefeita": {
+      "rho": 0.3493506494,
+      "p": 0.1205962579,
+      "faixas": 21.0
+    },
+    "riqueza rarefeita x fração do maior conjunto": {
+      "rho": -0.7896103896,
+      "p": 2.07782e-05,
+      "faixas": 21.0
+    },
+    "completude x registros": {
+      "rho": 0.638961039,
+      "p": 0.0018207241,
+      "faixas": 21.0
+    },
+    "riqueza bruta x latitude": {
+      "rho": -0.1233766234,
+      "p": 0.594168258,
+      "faixas": 21.0
+    },
+    "riqueza rarefeita x latitude": {
+      "rho": -0.012987013,
+      "p": 0.9554439323,
+      "faixas": 21.0
+    },
+    "rarefeita em 1500 x rarefeita em 3000": {
+      "rho": 0.998245614,
+      "p": 2.579846712e-22,
+      "faixas": 19.0
+    }
+  },
+  "lei_de_esforco": {
+    "inclinacao": 0.42958135781616685,
+    "intercepto": 1.31729162359522,
+    "r2": 0.7397575250983639,
+    "fator_de_especies_ao_decuplicar_registros": 2.6889415241599703
+  },
+  "curvas_de_rarefacao": [
+    {
+      "registros na subamostra": 0,
+      "20°S a 18°S": 0.0,
+      "24°S a 22°S": 0.0,
+      "16°S a 14°S": 0.0,
+      "18°S a 16°S": 0.0
+    },
+    {
+      "registros na subamostra": 203,
+      "20°S a 18°S": 167.4506428796,
+      "24°S a 22°S": 125.1145417353,
+      "16°S a 14°S": 158.8237774318,
+      "18°S a 16°S": 67.0695460025
+    },
+    {
+      "registros na subamostra": 406,
+      "20°S a 18°S": 297.088238939,
+      "24°S a 22°S": 215.6277539554,
+      "16°S a 14°S": 280.6947417464,
+      "18°S a 16°S": 93.1652874629
+    },
+    {
+      "registros na subamostra": 610,
+      "20°S a 18°S": 407.1489903219,
+      "24°S a 22°S": 293.3148916691,
+      "16°S a 14°S": 383.5767665018,
+      "18°S a 16°S": 113.6880354836
+    },
+    {
+      "registros na subamostra": 813,
+      "20°S a 18°S": 503.0688565148,
+      "24°S a 22°S": 362.1144312026,
+      "16°S a 14°S": 472.7686537682,
+      "18°S a 16°S": 132.1197349765
+    },
+    {
+      "registros na subamostra": 1016,
+      "20°S a 18°S": 588.9223845728,
+      "24°S a 22°S": 424.561466548,
+      "16°S a 14°S": 552.1998720744,
+      "18°S a 16°S": 149.4343239174
+    },
+    {
+      "registros na subamostra": 1220,
+      "20°S a 18°S": 667.2632710594,
+      "24°S a 22°S": 482.2114575516,
+      "16°S a 14°S": 624.3296033229,
+      "18°S a 16°S": 166.0166914146
+    },
+    {
+      "registros na subamostra": 1423,
+      "20°S a 18°S": 738.8181038683,
+      "24°S a 22°S": 535.3854650045,
+      "16°S a 14°S": 689.9069153323,
+      "18°S a 16°S": 181.8603377618
+    },
+    {
+      "registros na subamostra": 1627,
+      "20°S a 18°S": 805.3756231916,
+      "24°S a 22°S": 585.2643081893,
+      "16°S a 14°S": 750.6372796288,
+      "18°S a 16°S": 197.2216743529
+    },
+    {
+      "registros na subamostra": 1830,
+      "20°S a 18°S": 867.0910023897,
+      "24°S a 22°S": 631.8600176861,
+      "16°S a 14°S": 806.7156472804,
+      "18°S a 16°S": 212.0212804665
+    },
+    {
+      "registros na subamostra": 2033,
+      "20°S a 18°S": 924.9250865711,
+      "24°S a 22°S": 675.819502588,
+      "16°S a 14°S": 859.0597832834,
+      "18°S a 16°S": 226.3894456785
+    },
+    {
+      "registros na subamostra": 2237,
+      "20°S a 18°S": 979.631850339,
+      "24°S a 22°S": 717.6608969421,
+      "16°S a 14°S": 908.3851202091,
+      "18°S a 16°S": 240.4363430534
+    },
+    {
+      "registros na subamostra": 2440,
+      "20°S a 18°S": 1031.0754762513,
+      "24°S a 22°S": 757.2363572153,
+      "16°S a 14°S": 954.5971156767,
+      "18°S a 16°S": 254.058488129
+    },
+    {
+      "registros na subamostra": 2644,
+      "20°S a 18°S": 1080.0940910088,
+      "24°S a 22°S": 795.1556734529,
+      "16°S a 14°S": 998.471632866,
+      "18°S a 16°S": 267.4185309217
+    },
+    {
+      "registros na subamostra": 2847,
+      "20°S a 18°S": 1126.4814022742,
+      "24°S a 22°S": 831.2311654552,
+      "16°S a 14°S": 1039.842882622,
+      "18°S a 16°S": 280.4092493801
+    },
+    {
+      "registros na subamostra": 3050,
+      "20°S a 18°S": 1170.7144317828,
+      "24°S a 22°S": 865.8091706106,
+      "16°S a 14°S": 1079.1531108382,
+      "18°S a 16°S": 293.1171295039
+    },
+    {
+      "registros na subamostra": 3254,
+      "20°S a 18°S": 1213.1934373273,
+      "24°S a 22°S": 899.1843229765,
+      "16°S a 14°S": 1116.7700944275,
+      "18°S a 16°S": 305.620345298
+    },
+    {
+      "registros na subamostra": 3457,
+      "20°S a 18°S": 1253.6718606542,
+      "24°S a 22°S": 931.1461480963,
+      "16°S a 14°S": 1152.4863659438,
+      "18°S a 16°S": 317.8117286642
+    },
+    {
+      "registros na subamostra": 3661,
+      "20°S a 18°S": 1292.6969814378,
+      "24°S a 22°S": 962.1120811548,
+      "16°S a 14°S": 1186.7938329378,
+      "18°S a 16°S": 329.8251318987
+    },
+    {
+      "registros na subamostra": 3864,
+      "20°S a 18°S": 1330.015247468,
+      "24°S a 22°S": 991.8680176922,
+      "16°S a 14°S": 1219.4769014051,
+      "18°S a 16°S": 341.5549798401
+    },
+    {
+      "registros na subamostra": 4067,
+      "20°S a 18°S": 1365.9350988652,
+      "24°S a 22°S": 1020.6472384526,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 353.0716847393
+    },
+    {
+      "registros na subamostra": 4271,
+      "20°S a 18°S": 1400.7244103809,
+      "24°S a 22°S": 1048.654884143,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 364.4404315278
+    },
+    {
+      "registros na subamostra": 4474,
+      "20°S a 18°S": 1434.1319680008,
+      "24°S a 22°S": 1075.6791014238,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 375.5588768746
+    },
+    {
+      "registros na subamostra": 4677,
+      "20°S a 18°S": 1466.4116152535,
+      "24°S a 22°S": 1101.9153889942,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 386.4915784435
+    },
+    {
+      "registros na subamostra": 4881,
+      "20°S a 18°S": 1497.7868753595,
+      "24°S a 22°S": 1127.5380749526,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 397.298776209
+    },
+    {
+      "registros na subamostra": 5084,
+      "20°S a 18°S": 1528.0157110983,
+      "24°S a 22°S": 1152.3417648108,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 407.8816729109
+    },
+    {
+      "registros na subamostra": 5288,
+      "20°S a 18°S": 1557.4558526451,
+      "24°S a 22°S": 1176.6126590523,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 418.351230808
+    },
+    {
+      "registros na subamostra": 5491,
+      "20°S a 18°S": 1585.872898915,
+      "24°S a 22°S": 1200.1506290808,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 428.6110156561
+    },
+    {
+      "registros na subamostra": 5694,
+      "20°S a 18°S": 1613.4627827777,
+      "24°S a 22°S": 1223.1106048503,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 438.7185343747
+    },
+    {
+      "registros na subamostra": 5898,
+      "20°S a 18°S": 1640.400987546,
+      "24°S a 22°S": 1245.6331811889,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 448.7279288272
+    },
+    {
+      "registros na subamostra": 6101,
+      "20°S a 18°S": 1666.4652411354,
+      "24°S a 22°S": 1267.5265706104,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 458.5461965298
+    },
+    {
+      "registros na subamostra": 6305,
+      "20°S a 18°S": 1691.9511668354,
+      "24°S a 22°S": 1289.033353723,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 468.2749332817
+    },
+    {
+      "registros na subamostra": 6508,
+      "20°S a 18°S": 1716.6445767455,
+      "24°S a 22°S": 1309.9673126445,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 477.8233239462
+    },
+    {
+      "registros na subamostra": 6711,
+      "20°S a 18°S": 1740.7050319361,
+      "24°S a 22°S": 1330.4577390951,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 487.2436912908
+    },
+    {
+      "registros na subamostra": 6915,
+      "20°S a 18°S": 1764.2772486182,
+      "24°S a 22°S": 1350.6234860776,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 496.5856049815
+    },
+    {
+      "registros na subamostra": 7118,
+      "20°S a 18°S": 1787.1587362424,
+      "24°S a 22°S": 1370.2864307823,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 505.7613600321
+    },
+    {
+      "registros na subamostra": 7322,
+      "20°S a 18°S": 1809.6017952747,
+      "24°S a 22°S": 1389.6586226748,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 514.8650703144
+    },
+    {
+      "registros na subamostra": 7525,
+      "20°S a 18°S": 1831.4113458003,
+      "24°S a 22°S": 1408.5670961364,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 523.810993687
+    },
+    {
+      "registros na subamostra": 7728,
+      "20°S a 18°S": 1852.721998121,
+      "24°S a 22°S": 1427.1235078135,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 532.6473681618
+    },
+    {
+      "registros na subamostra": 7932,
+      "20°S a 18°S": 1873.6570657006,
+      "24°S a 22°S": 1445.4315218801,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 541.4201140876
+    },
+    {
+      "registros na subamostra": 8135,
+      "20°S a 18°S": 1894.0318998979,
+      "24°S a 22°S": 1463.3254920056,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 550.0462657599
+    },
+    {
+      "registros na subamostra": 8338,
+      "20°S a 18°S": 1913.9695848934,
+      "24°S a 22°S": 1480.9089039318,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 558.5719799433
+    },
+    {
+      "registros na subamostra": 8542,
+      "20°S a 18°S": 1933.5834593639,
+      "24°S a 22°S": 1498.2783183193,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 567.0413029839
+    },
+    {
+      "registros na subamostra": 8745,
+      "20°S a 18°S": 1952.6984733942,
+      "24°S a 22°S": 1515.27489395,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 575.3738610846
+    },
+    {
+      "registros na subamostra": 8949,
+      "20°S a 18°S": 1971.5193546006,
+      "24°S a 22°S": 1532.0769307387,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 583.6543101386
+    },
+    {
+      "registros na subamostra": 9152,
+      "20°S a 18°S": 1989.8770038199,
+      "24°S a 22°S": 1548.5298548431,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 591.8039090657
+    },
+    {
+      "registros na subamostra": 9355,
+      "20°S a 18°S": 2007.8791650822,
+      "24°S a 22°S": 1564.7262408274,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 599.8658039265
+    },
+    {
+      "registros na subamostra": 9559,
+      "20°S a 18°S": 2025.6258132096,
+      "24°S a 22°S": 1580.7530625258,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 607.881315098
+    },
+    {
+      "registros na subamostra": 9762,
+      "20°S a 18°S": 2042.9561206241,
+      "24°S a 22°S": 1596.4617520951,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 615.774015324
+    },
+    {
+      "registros na subamostra": 9966,
+      "20°S a 18°S": 2060.0534206062,
+      "24°S a 22°S": 1612.0152210035,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 623.6237500079
+    },
+    {
+      "registros na subamostra": 10169,
+      "20°S a 18°S": 2076.7619959353,
+      "24°S a 22°S": 1627.2686591327,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 631.3555518936
+    },
+    {
+      "registros na subamostra": 10372,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1642.306112828,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 639.0100064457
+    },
+    {
+      "registros na subamostra": 10576,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1657.2070056296,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 646.6261007762
+    },
+    {
+      "registros na subamostra": 10779,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1671.8318116315,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 654.1309418042
+    },
+    {
+      "registros na subamostra": 10983,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1686.3309023712,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 661.6001908442
+    },
+    {
+      "registros na subamostra": 11186,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1700.5680741696,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 668.9622678567
+    },
+    {
+      "registros na subamostra": 11389,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1714.6205167273,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 676.2555462539
+    },
+    {
+      "registros na subamostra": 11593,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1728.5615128114,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 683.516985591
+    },
+    {
+      "registros na subamostra": 11796,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1742.2595388071,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 690.6768749868
+    },
+    {
+      "registros na subamostra": 12000,
+      "20°S a 18°S": null,
+      "24°S a 22°S": 1755.8545034691,
+      "16°S a 14°S": null,
+      "18°S a 16°S": 697.8071941624
+    }
+  ],
+  "so_peixes": {
+    "por_faixa": {
+      "36°S a 34°S": {
+        "registros de peixes": 1079,
+        "espécies de peixes": 209,
+        "peixes, rarefeita": 125.2258317106
+      },
+      "34°S a 32°S": {
+        "registros de peixes": 10117,
+        "espécies de peixes": 335,
+        "peixes, rarefeita": 99.0357495994
+      },
+      "32°S a 30°S": {
+        "registros de peixes": 8386,
+        "espécies de peixes": 265,
+        "peixes, rarefeita": 68.0031060099
+      },
+      "30°S a 28°S": {
+        "registros de peixes": 3000,
+        "espécies de peixes": 277,
+        "peixes, rarefeita": 107.2733875602
+      },
+      "28°S a 26°S": {
+        "registros de peixes": 39817,
+        "espécies de peixes": 407,
+        "peixes, rarefeita": 73.8350892748
+      },
+      "26°S a 24°S": {
+        "registros de peixes": 12614,
+        "espécies de peixes": 485,
+        "peixes, rarefeita": 124.3265915744
+      },
+      "24°S a 22°S": {
+        "registros de peixes": 46744,
+        "espécies de peixes": 760,
+        "peixes, rarefeita": 118.1431617153
+      },
+      "22°S a 20°S": {
+        "registros de peixes": 57425,
+        "espécies de peixes": 713,
+        "peixes, rarefeita": 97.3369436023
+      },
+      "20°S a 18°S": {
+        "registros de peixes": 3694,
+        "espécies de peixes": 532,
+        "peixes, rarefeita": 187.2249697804
+      },
+      "18°S a 16°S": {
+        "registros de peixes": 58674,
+        "espécies de peixes": 502,
+        "peixes, rarefeita": 52.2679929058
+      },
+      "16°S a 14°S": {
+        "registros de peixes": 554,
+        "espécies de peixes": 220,
+        "peixes, rarefeita": 184.9565828174
+      },
+      "14°S a 12°S": {
+        "registros de peixes": 5435,
+        "espécies de peixes": 548,
+        "peixes, rarefeita": 174.5940554128
+      },
+      "12°S a 10°S": {
+        "registros de peixes": 469,
+        "espécies de peixes": 96,
+        "peixes, rarefeita": 86.9676989229
+      },
+      "10°S a 8°S": {
+        "registros de peixes": 3647,
+        "espécies de peixes": 433,
+        "peixes, rarefeita": 169.8290523855
+      },
+      "8°S a 6°S": {
+        "registros de peixes": 1766,
+        "espécies de peixes": 332,
+        "peixes, rarefeita": 174.4999580506
+      },
+      "6°S a 4°S": {
+        "registros de peixes": 17274,
+        "espécies de peixes": 388,
+        "peixes, rarefeita": 67.3886379452
+      },
+      "4°S a 2°S": {
+        "registros de peixes": 41411,
+        "espécies de peixes": 729,
+        "peixes, rarefeita": 84.184635987
+      },
+      "2°S a 0°": {
+        "registros de peixes": 4431,
+        "espécies de peixes": 432,
+        "peixes, rarefeita": 144.4912147317
+      },
+      "0° a 2°N": {
+        "registros de peixes": 14370,
+        "espécies de peixes": 456,
+        "peixes, rarefeita": 68.2121996162
+      },
+      "2°N a 4°N": {
+        "registros de peixes": 2232,
+        "espécies de peixes": 218,
+        "peixes, rarefeita": 99.2348010495
+      },
+      "4°N a 6°N": {
+        "registros de peixes": 555,
+        "espécies de peixes": 174,
+        "peixes, rarefeita": 140.6310243135
+      }
+    },
+    "postos_peixes_x_todos": {
+      "rho": 0.9025974025974025,
+      "p": 2.197749206954007e-08,
+      "faixas": 21
+    },
+    "n": 400
+  },
+  "prioridade": [
+    {
+      "faixa": "16°S a 14°S",
+      "registros": 4613,
+      "riqueza bruta": 1240,
+      "completude": 0.6230178987,
+      "espécies novas a cada 100 registros": 15.3403403403,
+      "fração do maior conjunto": 0.1632343377
+    },
+    {
+      "faixa": "36°S a 34°S",
+      "registros": 2332,
+      "riqueza bruta": 489,
+      "completude": 0.5478591261,
+      "espécies novas a cada 100 registros": 13.9856557377,
+      "fração do maior conjunto": 0.3001715266
+    },
+    {
+      "faixa": "4°N a 6°N",
+      "registros": 4209,
+      "riqueza bruta": 378,
+      "completude": 0.4772727273,
+      "espécies novas a cada 100 registros": 13.4366925065,
+      "fração do maior conjunto": 0.2036113091
+    },
+    {
+      "faixa": "8°S a 6°S",
+      "registros": 7852,
+      "riqueza bruta": 1244,
+      "completude": 0.6557290637,
+      "espécies novas a cada 100 registros": 8.8971419344,
+      "fração do maior conjunto": 0.2142129394
+    },
+    {
+      "faixa": "20°S a 18°S",
+      "registros": 14282,
+      "riqueza bruta": 2089,
+      "completude": 0.6908997532,
+      "espécies novas a cada 100 registros": 8.0523255814,
+      "fração do maior conjunto": 0.1252625683
+    },
+    {
+      "faixa": "12°S a 10°S",
+      "registros": 4736,
+      "riqueza bruta": 609,
+      "completude": 0.6391836735,
+      "espécies novas a cada 100 registros": 6.862745098,
+      "fração do maior conjunto": 0.448902027
+    },
+    {
+      "faixa": "2°N a 4°N",
+      "registros": 4691,
+      "riqueza bruta": 601,
+      "completude": 0.666574241,
+      "espécies novas a cada 100 registros": 6.5872814796,
+      "fração do maior conjunto": 0.3690044767
+    },
+    {
+      "faixa": "14°S a 12°S",
+      "registros": 12811,
+      "riqueza bruta": 1756,
+      "completude": 0.7141114274,
+      "espécies novas a cada 100 registros": 5.7394002068,
+      "fração do maior conjunto": 0.1959253766
+    },
+    {
+      "faixa": "30°S a 28°S",
+      "registros": 10889,
+      "riqueza bruta": 760,
+      "completude": 0.712945591,
+      "espécies novas a cada 100 registros": 4.2795794462,
+      "fração do maior conjunto": 0.2786298099
+    },
+    {
+      "faixa": "10°S a 8°S",
+      "registros": 22637,
+      "riqueza bruta": 1808,
+      "completude": 0.6776579945,
+      "espécies novas a cada 100 registros": 3.7184825353,
+      "fração do maior conjunto": 0.3033970933
+    },
+    {
+      "faixa": "2°S a 0°",
+      "registros": 12242,
+      "riqueza bruta": 1126,
+      "completude": 0.7856425735,
+      "espécies novas a cada 100 registros": 3.7081700332,
+      "fração do maior conjunto": 0.2120568535
+    },
+    {
+      "faixa": "6°S a 4°S",
+      "registros": 40247,
+      "riqueza bruta": 1517,
+      "completude": 0.5536514232,
+      "espécies novas a cada 100 registros": 3.0300562027,
+      "fração do maior conjunto": 0.3107809278
+    },
+    {
+      "faixa": "32°S a 30°S",
+      "registros": 12019,
+      "riqueza bruta": 706,
+      "completude": 0.6461426791,
+      "espécies novas a cada 100 registros": 2.623753717,
+      "fração do maior conjunto": 0.4826524669
+    },
+    {
+      "faixa": "34°S a 32°S",
+      "registros": 20882,
+      "riqueza bruta": 1023,
+      "completude": 0.702496012,
+      "espécies novas a cada 100 registros": 2.4076219905,
+      "fração do maior conjunto": 0.2838808543
+    },
+    {
+      "faixa": "0° a 2°N",
+      "registros": 21978,
+      "riqueza bruta": 1021,
+      "completude": 0.684094264,
+      "espécies novas a cada 100 registros": 2.2802697784,
+      "fração do maior conjunto": 0.3468468468
+    },
+    {
+      "faixa": "26°S a 24°S",
+      "registros": 49188,
+      "riqueza bruta": 2367,
+      "completude": 0.7801071963,
+      "espécies novas a cada 100 registros": 1.6923962029,
+      "fração do maior conjunto": 0.1468447589
+    },
+    {
+      "faixa": "4°S a 2°S",
+      "registros": 114064,
+      "riqueza bruta": 2197,
+      "completude": 0.6989110486,
+      "espécies novas a cada 100 registros": 1.3855356564,
+      "fração do maior conjunto": 0.437464932
+    },
+    {
+      "faixa": "22°S a 20°S",
+      "registros": 84426,
+      "riqueza bruta": 3038,
+      "completude": 0.7608504731,
+      "espécies novas a cada 100 registros": 1.3718401628,
+      "fração do maior conjunto": 0.280861346
+    },
+    {
+      "faixa": "28°S a 26°S",
+      "registros": 59403,
+      "riqueza bruta": 1435,
+      "completude": 0.7532869944,
+      "espécies novas a cada 100 registros": 1.0040406514,
+      "fração do maior conjunto": 0.4461390839
+    },
+    {
+      "faixa": "18°S a 16°S",
+      "registros": 99430,
+      "riqueza bruta": 1859,
+      "completude": 0.7007672945,
+      "espécies novas a cada 100 registros": 0.9586496628,
+      "fração do maior conjunto": 0.6004324651
+    },
+    {
+      "faixa": "24°S a 22°S",
+      "registros": 198492,
+      "riqueza bruta": 4444,
+      "completude": 0.7883869276,
+      "espécies novas a cada 100 registros": 0.8049125631,
+      "fração do maior conjunto": 0.1954234931
+    }
+  ],
+  "tartarugas": {
+    "total": 1770,
+    "por_tipo": {
+      "ciência cidadã": {
+        "registros": 968,
+        "fração": 0.5468926554
+      },
+      "telemetria": {
+        "registros": 753,
+        "fração": 0.4254237288
+      },
+      "levantamento ou coleção": {
+        "registros": 49,
+        "fração": 0.0276836158
+      }
+    },
+    "por_conjunto": [
+      {
+        "titulo": "iNaturalist Research-grade Observations Marine Subset",
+        "tipo_de_fonte": "ciência cidadã",
+        "registros": 942,
+        "fração": 0.5322033898
+      },
+      {
+        "titulo": "Ascension Island green turtles migrations",
+        "tipo_de_fonte": "telemetria",
+        "registros": 260,
+        "fração": 0.1468926554
+      },
+      {
+        "titulo": "Study of the Biology of Sea Turtles in Brazil through Satellite Telemetry (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 259,
+        "fração": 0.1463276836
+      },
+      {
+        "titulo": "UCF - TAMAR - NOAA juvenile tracking (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 86,
+        "fração": 0.0485875706
+      },
+      {
+        "titulo": "Gabon 2007-08: Mayumba, Leatherback Turtles (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 38,
+        "fração": 0.0214689266
+      },
+      {
+        "titulo": "Brazil Trawl-Caught Turtles (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 35,
+        "fração": 0.0197740113
+      },
+      {
+        "titulo": "Observation.org, Nature data from around the World Marine Subset",
+        "tipo_de_fonte": "ciência cidadã",
+        "registros": 24,
+        "fração": 0.013559322
+      },
+      {
+        "titulo": "Loggerheads Sea Turtles of Argentina (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 23,
+        "fração": 0.0129943503
+      },
+      {
+        "titulo": "Instituto Tartabinhas Brazil | Cheloniidae",
+        "tipo_de_fonte": "levantamento ou coleção",
+        "registros": 23,
+        "fração": 0.0129943503
+      },
+      {
+        "titulo": "Juvenile Green Sea Turtles from Argentina (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 16,
+        "fração": 0.009039548
+      },
+      {
+        "titulo": "Neonates tagged off Brazil (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 13,
+        "fração": 0.0073446328
+      },
+      {
+        "titulo": "Gabon 2012: Pongara, Leatherback Turtles (aggregated per 1-degree cell)",
+        "tipo_de_fonte": "telemetria",
+        "registros": 12,
+        "fração": 0.006779661
+      }
+    ],
+    "por_faixa": [
+      {
+        "faixa": "4°N a 6°N",
+        "ciência cidadã": 0,
+        "levantamento ou coleção": 0,
+        "telemetria": 6
+      },
+      {
+        "faixa": "2°N a 4°N",
+        "ciência cidadã": 0,
+        "levantamento ou coleção": 1,
+        "telemetria": 6
+      },
+      {
+        "faixa": "0° a 2°N",
+        "ciência cidadã": 0,
+        "levantamento ou coleção": 0,
+        "telemetria": 22
+      },
+      {
+        "faixa": "2°S a 0°",
+        "ciência cidadã": 0,
+        "levantamento ou coleção": 0,
+        "telemetria": 59
+      },
+      {
+        "faixa": "4°S a 2°S",
+        "ciência cidadã": 82,
+        "levantamento ou coleção": 12,
+        "telemetria": 44
+      },
+      {
+        "faixa": "6°S a 4°S",
+        "ciência cidadã": 17,
+        "levantamento ou coleção": 0,
+        "telemetria": 27
+      },
+      {
+        "faixa": "8°S a 6°S",
+        "ciência cidadã": 46,
+        "levantamento ou coleção": 0,
+        "telemetria": 95
+      },
+      {
+        "faixa": "10°S a 8°S",
+        "ciência cidadã": 23,
+        "levantamento ou coleção": 0,
+        "telemetria": 74
+      },
+      {
+        "faixa": "12°S a 10°S",
+        "ciência cidadã": 10,
+        "levantamento ou coleção": 0,
+        "telemetria": 79
+      },
+      {
+        "faixa": "14°S a 12°S",
+        "ciência cidadã": 42,
+        "levantamento ou coleção": 0,
+        "telemetria": 81
+      },
+      {
+        "faixa": "16°S a 14°S",
+        "ciência cidadã": 4,
+        "levantamento ou coleção": 0,
+        "telemetria": 17
+      },
+      {
+        "faixa": "18°S a 16°S",
+        "ciência cidadã": 22,
+        "levantamento ou coleção": 0,
+        "telemetria": 15
+      },
+      {
+        "faixa": "20°S a 18°S",
+        "ciência cidadã": 21,
+        "levantamento ou coleção": 0,
+        "telemetria": 28
+      },
+      {
+        "faixa": "22°S a 20°S",
+        "ciência cidadã": 137,
+        "levantamento ou coleção": 0,
+        "telemetria": 24
+      },
+      {
+        "faixa": "24°S a 22°S",
+        "ciência cidadã": 389,
+        "levantamento ou coleção": 7,
+        "telemetria": 20
+      },
+      {
+        "faixa": "26°S a 24°S",
+        "ciência cidadã": 45,
+        "levantamento ou coleção": 4,
+        "telemetria": 24
+      },
+      {
+        "faixa": "28°S a 26°S",
+        "ciência cidadã": 68,
+        "levantamento ou coleção": 25,
+        "telemetria": 23
+      },
+      {
+        "faixa": "30°S a 28°S",
+        "ciência cidadã": 28,
+        "levantamento ou coleção": 0,
+        "telemetria": 22
+      },
+      {
+        "faixa": "32°S a 30°S",
+        "ciência cidadã": 21,
+        "levantamento ou coleção": 0,
+        "telemetria": 33
+      },
+      {
+        "faixa": "34°S a 32°S",
+        "ciência cidadã": 12,
+        "levantamento ou coleção": 0,
+        "telemetria": 40
+      },
+      {
+        "faixa": "36°S a 34°S",
+        "ciência cidadã": 1,
+        "levantamento ou coleção": 0,
+        "telemetria": 14
+      }
+    ],
+    "por_especie": [
+      {
+        "especie": "Chelonia mydas",
+        "nome popular": "tartaruga-verde",
+        "ciência cidadã": 709,
+        "levantamento ou coleção": 35,
+        "telemetria": 276,
+        "total": 1020
+      },
+      {
+        "especie": "Caretta caretta",
+        "nome popular": "tartaruga-cabeçuda",
+        "ciência cidadã": 131,
+        "levantamento ou coleção": 4,
+        "telemetria": 230,
+        "total": 365
+      },
+      {
+        "especie": "Eretmochelys imbricata",
+        "nome popular": "tartaruga-de-pente",
+        "ciência cidadã": 91,
+        "levantamento ou coleção": 1,
+        "telemetria": 60,
+        "total": 152
+      },
+      {
+        "especie": "Dermochelys coriacea",
+        "nome popular": "tartaruga-de-couro",
+        "ciência cidadã": 14,
+        "levantamento ou coleção": 9,
+        "telemetria": 122,
+        "total": 145
+      },
+      {
+        "especie": "Lepidochelys olivacea",
+        "nome popular": "tartaruga-oliva",
+        "ciência cidadã": 23,
+        "levantamento ou coleção": 0,
+        "telemetria": 65,
+        "total": 88
+      }
+    ]
+  }
+}
