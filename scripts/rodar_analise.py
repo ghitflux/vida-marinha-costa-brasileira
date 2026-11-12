@@ -13,7 +13,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from vida_marinha import analise, dados, graficos
+from vida_marinha import analise, dados, graficos, site
 
 SAIDA = Path("reports")
 FIGURAS = SAIDA / "figuras"
@@ -67,6 +67,9 @@ def main() -> None:
             "por_especie": json.loads(tart["por_especie"].reset_index().to_json(orient="records", force_ascii=False)),
         },
     }
+    # O texto e o gráfico principal do site vêm de outro arquivo; daqui saem só os gráficos extras, calculados a
+    # partir do próprio dicionário de resultados (passado por JSON para usar exatamente os números gravados).
+    resultados["para_o_site"] = {"graficos_extras": site.graficos_extras(json.loads(json.dumps(resultados, ensure_ascii=False)))}
     (SAIDA / "resultados.json").write_text(json.dumps(resultados, indent=2, ensure_ascii=False), encoding="utf-8")
 
     pd.set_option("display.width", 250)
